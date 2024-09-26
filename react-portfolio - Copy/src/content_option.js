@@ -1,7 +1,7 @@
 const logotext = "";
 const meta = {
     title: "Neeraj Laul",
-    description: "I’m Neeraj Laul, Engineer, Musician and Coder currently staying in Pune, India",
+    description: "I’m Neeraj Laul, Engineer, Musician and Coder currently staying in College Park, Maryland",
 };
 
 const introdata = {
@@ -13,7 +13,7 @@ const introdata = {
         fourth: "Video Editor.",
     },
     description: "I am a mechanical engineer learning to code, one project at a time. ",
-    your_img_url: "https://drive.google.com/uc?export=download&id=1V2tkxM3b52KUmfjb0ZfybjDWya9WQtTG",
+    your_img_url: "https://drive.google.com/uc?&id=1V2tkxM3b52KUmfjb0ZfybjDWya9WQtTG",
 };
 
 const dataabout = {
@@ -147,7 +147,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "neeraj.laul@gmail.com",
-    YOUR_FONE: "+918007805550",
+    YOUR_FONE: "+12403380691",
     description: "Got Questions? Use the form below to get in touch! Alternatively, you can also use my contact details given above. Also, feel free to contact me on Instagram by clicking the Instagram logo in the footer!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
