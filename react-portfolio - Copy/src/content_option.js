@@ -104,7 +104,7 @@ const dataportfolio = [{
     link: "https://github.com/NeerajLaul",
     },
     {
-        img: "https://drive.google.com/uc?export=download&id=1Fb3pqB_tZAvRn2ZPzwDUdAuUOklHnKNU",
+        img: "react-portfolio - Copy/src/assets/images/DaddyThumbnail.png",
         description: "Check my band out on YouTube!",
         link: "https://www.youtube.com/@slyverity",
     },
