@@ -13,7 +13,7 @@ const introdata = {
         fourth: "Video Editor.",
     },
     description: "I am a mechanical engineer learning to code, one project at a time. ",
-    your_img_url: "https://drive.google.com/uc?&id=1V2tkxM3b52KUmfjb0ZfybjDWya9WQtTG",
+    your_img_url: "https://i.imgflip.com/95dl2r.jpg",
 };
 
 const dataabout = {
