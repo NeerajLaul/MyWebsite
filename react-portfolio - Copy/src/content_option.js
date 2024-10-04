@@ -20,7 +20,13 @@ const dataabout = {
     title: "A bit about myself:",
     aboutme: "After completing my Mechanical Engineering degree from Savitribai Phule Pune University with a CGPA of 7.82, I began delving into the intricate world of coding. While I was always interested in coding since high school, and even learned a bit of Python and Django in my spare time during engineering, I could only learn it in a structured way after completing my degree. To that end, I completed a course in Python programming and am currently completing an advanced certificate course in Full Stack Development from IIT-Roorkee. Apart from technical skills, I am also an accomplished musician and a video editor. Do check out my band's songs from the YouTube link in the footer!",
 };
-const worktimeline = [{
+const worktimeline = [
+    {
+        jobtitle : "Robotics Engineering",
+        where: "University Of Maryland - College Park",
+        date: "2024 - 2025",
+    },
+    {
         jobtitle: "Mechanical Engineering",
         where: "P.E.S. Modern College Of Engineering",
         date: "CGPA:7.82 - First Class With Distinction",
@@ -104,7 +110,7 @@ const dataportfolio = [{
     link: "https://github.com/NeerajLaul",
     },
     {
-        img: "https://i.imgur.com/shFwFo6.jpeg",
+        img: "https://i.imgur.com/DG7SJ7R.jpeg",
         description: "Check my band out on YouTube!",
         link: "https://www.youtube.com/@slyverity",
     },
