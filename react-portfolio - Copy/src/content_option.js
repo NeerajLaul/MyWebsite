@@ -13,7 +13,7 @@ const introdata = {
         fourth: "Video Editor.",
     },
     description: "I am a mechanical engineer learning to code, one project at a time. ",
-    your_img_url: "https://imgur.com/gQuxqYL",
+    your_img_url: "https://i.imgur.com/gQuxqYL.jpeg",
 };
 
 const dataabout = {
