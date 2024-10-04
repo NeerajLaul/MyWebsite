@@ -20,7 +20,7 @@ const Headermain = () => {
           <Link  className="navbar-brand nav_ac" to="/">
             {logotext}
           </Link>
-          <link rel="logo" type="image/png" href="https://drive.google.com/uc?export=download&id=1wKje-IP7qh-NM20ihqvn1guSDwDqbUrB"></link>
+          <link rel="logo" type="image/png" href="https://i.imgur.com/TNgj8g0.png"></link>
           <div className="d-flex align-items-center">
           <Themetoggle />
           <button className="menu__button  nav_ac" onClick={handleToggle}>
