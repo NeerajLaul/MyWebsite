@@ -44,10 +44,24 @@ const worktimeline = [
     },
 ];
 
-const skills = [{
+const skills = [
+    {
         name: "Python",
         value: 80,
     },
+    {
+        name: "ROS2",
+        value: "60",
+    },
+    {
+        name: "Linux",
+        value: "50",
+    },
+    {
+        name: "Solidworks",
+        value: "70",
+    },
+    
     {
         name: "Django",
         value: 70,
