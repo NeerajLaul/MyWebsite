@@ -99,22 +99,22 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    img: "https://drive.google.com/uc?export=download&id=1nFkorM6RFLsOaJmksRXXg96uRj8AngWJ",
+    img: "https://i.imgur.com/T29wLod.jpeg",
     description: "Check out my new GitHub page. Stay tuned for more code!",
     link: "https://github.com/NeerajLaul",
     },
     {
-        img: "react-portfolio - Copy/src/assets/images/DaddyThumbnail.png",
+        img: "https://i.imgur.com/shFwFo6.jpeg",
         description: "Check my band out on YouTube!",
         link: "https://www.youtube.com/@slyverity",
     },
     {
-        img: "https://drive.google.com/uc?export=download&id=1Suwi2X1uVldcVMb_-6-vE5KQgZs3Qzpa",
+        img: "https://i.imgur.com/BWYTq0I.png",
         description: "My E-portfolio for my Full-Stack course!",
         link: "https://eportfolio.mygreatlearning.com/neeraj-laul",
     },
     {
-        img: "https://drive.google.com/uc?export=download&id=1q2-k3JLmoY8DtbN-weGwHUO1c-4zFWFU",
+        img: "https://i.imgur.com/Yvh3LHH.png",
         description: "Check my band out on Spotify!",
         link: "https://open.spotify.com/artist/1FpCAH1NgeqKc8RX43ItES",
     },
